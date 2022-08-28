@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TonmU8m+p6ffMLZmoDsxNCwJmYffsoJcsZ3wHaNDLl9nCRkHq+a9BXUnvmImuJFTwkEORY6GXUvtTNRj9CFftQ==",
+  "success": true,
+  "projectFilePath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mintic\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Servicios\\HomePetCare.App.Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.vargas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.vargas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.vargas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.vargas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.vargas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.vargas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
