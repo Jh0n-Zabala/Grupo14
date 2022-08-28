@@ -1,0 +1,12 @@
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.csproj.AssemblyReference.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.AssemblyInfo.cs
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.csproj.CoreCompileInputs.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\net6.0\HomePetCare.App.Dominio.deps.json
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\net6.0\HomePetCare.App.Dominio.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\net6.0\HomePetCare.App.Dominio.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\refint\HomePetCare.App.Dominio.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\ref\HomePetCare.App.Dominio.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\HomePetCare\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
+      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
       "projectName": "HomePetCare.App.Dominio",
-      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\HomePetCare\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
+      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\HomePetCare\\HomePetCare.App.Dominio\\obj\\",
+      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
