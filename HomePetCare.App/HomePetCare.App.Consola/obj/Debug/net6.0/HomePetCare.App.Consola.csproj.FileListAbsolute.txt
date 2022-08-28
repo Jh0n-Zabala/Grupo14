@@ -58,3 +58,5 @@ C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCa
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\obj\Debug\net6.0\HomePetCare.App.Consola.pdb
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\obj\Debug\net6.0\HomePetCare.App.Consola.genruntimeconfig.cache
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\obj\Debug\net6.0\ref\HomePetCare.App.Consola.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Humanizer.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

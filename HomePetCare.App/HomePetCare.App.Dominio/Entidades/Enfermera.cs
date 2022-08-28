@@ -3,7 +3,7 @@ namespace HomePetCare.App.Dominio
     /// <summary>Class <c>FamiliarDesignado</c>
     /// Modela al familiar asignado para cuidar al paciente
     /// </summary>   
-    public class Enfermera : Persona
+    public class Enfermera : Individuo
     {
         /// Numero único de la tarjeta profesional   
         public string TarjetaProfesional { get; set; }

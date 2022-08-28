@@ -1,6 +1,6 @@
 namespace HomePetCare.App.Dominio
 {
-public class Persona
+public class Individuo
 	{
 		public int Id { get; set; }
 		public String Nombre{get;set;}

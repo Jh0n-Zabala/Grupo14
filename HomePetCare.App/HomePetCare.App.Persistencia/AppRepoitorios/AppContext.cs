@@ -5,11 +5,11 @@ namespace HomePetCare.App.Persistencia
 {
     public class AppContext : DbContext
     {
-        public DbSet<Persona> Personas { get; set; }
-        public DbSet<Mascota> Mascota { get; set; }
-        public DbSet<Veterinario> Veterinario { get; set; }
+        public DbSet<Individuo> Individuos { get; set; }
+        public DbSet<Mascota> Mascotas { get; set; }
+        public DbSet<Veterinario> Veterinarios { get; set; }
         public DbSet<Enfermera> Enfermeras { get; set; }
-        public DbSet<Propietario> Propietario { get; set; }
+        public DbSet<Propietario> Propietarios { get; set; }
         public DbSet<SignoVital> SignosVitales { get; set; }
         public DbSet<Historia> Historias { get; set; }
         public DbSet<Recomendaciones> Recomendaciones { get; set; }
