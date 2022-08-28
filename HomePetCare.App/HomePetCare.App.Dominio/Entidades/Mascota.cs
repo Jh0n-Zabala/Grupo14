@@ -7,29 +7,29 @@ namespace HomePetCare.App.Dominio
     /// </summary>      
     public class Mascota : Individuo
     {
-        public int Id{get;set;}
-		public string Raza{get;set;}
-		public int Edad{get;set;}
-        public string Direccion { get; set; }
+        public int? Id{get;set;}
+		public string? Raza{get;set;}
+		public int? Edad{get;set;}
+        public string? Direccion { get; set; }
         /// Coordenada de la dirección del Paciente
         // public float Latitud { get; set; }
         // /// Coordenada de la dirección del Paciente
         // public float Longitud { get; set; }
         // Ciudad de residencia del Paciente
-        public string Ciudad { get; set; }
-        public DateTime FechaNacimiento { get; set; }
+        public string? Ciudad { get; set; }
+        public DateTime? FechaNacimiento { get; set; }
         /// Relacion entre Paciente y su FamiliarDesignado para cuidarlo
-        public Propietario Propietario { get; set; }
+        public Propietario? Propietario { get; set; }
         /// Relacion entre Paciente y la  Enfermera asignada
-        public Enfermera Enfermera { get; set; }
+        public Enfermera? Enfermera { get; set; }
         /// Relacion entre Paciente y el Medico que lo atiende
-        public Veterinario Veterinario { get; set; }
+        public Veterinario? Veterinario { get; set; }
         /// Relacion entre Paciente y su Historia clínica
-        public Historia Historia { get; set; }
+        public Historia? Historia { get; set; }
         /// <summary>
         ///  Referencia a la lista de signos vitales de un Paciente 
         /// </summary>
         /// <value></value>
-        public System.Collections.Generic.List<SignoVital> SignosVitales { get; set; }
+        public System.Collections.Generic.List<SignoVital>? SignosVitales { get; set; }
     }
 }

@@ -15,8 +15,8 @@ namespace HomePetCare.App.Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Diagnostico = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Entorno = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Diagnostico = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Entorno = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -29,10 +29,10 @@ namespace HomePetCare.App.Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    NumeroTelefono = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Genero = table.Column<int>(type: "int", nullable: false),
+                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    NumeroTelefono = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Genero = table.Column<int>(type: "int", nullable: true),
                     Discriminator = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     TarjetaProfesional = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     HorasLaborales = table.Column<int>(type: "int", nullable: true),
@@ -58,26 +58,22 @@ namespace HomePetCare.App.Persistencia.Migrations
                         name: "FK_Individuos_Historias_HistoriaId",
                         column: x => x.HistoriaId,
                         principalTable: "Historias",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        principalColumn: "Id");
                     table.ForeignKey(
                         name: "FK_Individuos_Individuos_EnfermeraId",
                         column: x => x.EnfermeraId,
                         principalTable: "Individuos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        principalColumn: "Id");
                     table.ForeignKey(
                         name: "FK_Individuos_Individuos_PropietarioId",
                         column: x => x.PropietarioId,
                         principalTable: "Individuos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        principalColumn: "Id");
                     table.ForeignKey(
                         name: "FK_Individuos_Individuos_VeterinarioId",
                         column: x => x.VeterinarioId,
                         principalTable: "Individuos",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        principalColumn: "Id");
                 });
 
             migrationBuilder.CreateTable(
@@ -86,8 +82,8 @@ namespace HomePetCare.App.Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    FechaHora = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    FechaHora = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    Descripcion = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     HistoriaId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
@@ -107,8 +103,8 @@ namespace HomePetCare.App.Persistencia.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     FechaHora = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Valor = table.Column<float>(type: "real", nullable: false),
-                    Signo = table.Column<int>(type: "int", nullable: false),
+                    Valor = table.Column<float>(type: "real", nullable: true),
+                    Signo = table.Column<int>(type: "int", nullable: true),
                     MascotaId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>

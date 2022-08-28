@@ -24,18 +24,16 @@ namespace HomePetCare.App.Persistencia.Migrations
 
             modelBuilder.Entity("HomePetCare.App.Dominio.Historia", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int?>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
 
                     b.Property<string>("Diagnostico")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Entorno")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -45,29 +43,26 @@ namespace HomePetCare.App.Persistencia.Migrations
 
             modelBuilder.Entity("HomePetCare.App.Dominio.Individuo", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int?>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
 
                     b.Property<string>("Apellidos")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Discriminator")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Genero")
+                    b.Property<int?>("Genero")
                         .HasColumnType("int");
 
                     b.Property<string>("Nombre")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("NumeroTelefono")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -79,17 +74,16 @@ namespace HomePetCare.App.Persistencia.Migrations
 
             modelBuilder.Entity("HomePetCare.App.Dominio.Recomendaciones", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int?>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int?>("Id"), 1L, 1);
 
                     b.Property<string>("Descripcion")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("FechaHora")
+                    b.Property<DateTime?>("FechaHora")
                         .HasColumnType("datetime2");
 
                     b.Property<int?>("HistoriaId")
@@ -116,10 +110,10 @@ namespace HomePetCare.App.Persistencia.Migrations
                     b.Property<int?>("MascotaId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Signo")
+                    b.Property<int?>("Signo")
                         .HasColumnType("int");
 
-                    b.Property<float>("Valor")
+                    b.Property<float?>("Valor")
                         .HasColumnType("real");
 
                     b.HasKey("Id");
@@ -133,11 +127,10 @@ namespace HomePetCare.App.Persistencia.Migrations
                 {
                     b.HasBaseType("HomePetCare.App.Dominio.Individuo");
 
-                    b.Property<int>("HorasLaborales")
+                    b.Property<int?>("HorasLaborales")
                         .HasColumnType("int");
 
                     b.Property<string>("TarjetaProfesional")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Enfermera");
@@ -148,33 +141,30 @@ namespace HomePetCare.App.Persistencia.Migrations
                     b.HasBaseType("HomePetCare.App.Dominio.Individuo");
 
                     b.Property<string>("Ciudad")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Direccion")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Edad")
+                    b.Property<int?>("Edad")
                         .HasColumnType("int");
 
-                    b.Property<int>("EnfermeraId")
+                    b.Property<int?>("EnfermeraId")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("FechaNacimiento")
+                    b.Property<DateTime?>("FechaNacimiento")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("HistoriaId")
+                    b.Property<int?>("HistoriaId")
                         .HasColumnType("int");
 
-                    b.Property<int>("PropietarioId")
+                    b.Property<int?>("PropietarioId")
                         .HasColumnType("int");
 
                     b.Property<string>("Raza")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("VeterinarioId")
+                    b.Property<int?>("VeterinarioId")
                         .HasColumnType("int");
 
                     b.HasIndex("EnfermeraId");
@@ -193,12 +183,10 @@ namespace HomePetCare.App.Persistencia.Migrations
                     b.HasBaseType("HomePetCare.App.Dominio.Individuo");
 
                     b.Property<string>("Direccion")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("Propietario_Direccion");
 
                     b.Property<string>("Parentesco")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Propietario");
@@ -209,15 +197,12 @@ namespace HomePetCare.App.Persistencia.Migrations
                     b.HasBaseType("HomePetCare.App.Dominio.Individuo");
 
                     b.Property<string>("Codigo")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Especialidad")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RegistroRethus")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Veterinario");
@@ -241,27 +226,19 @@ namespace HomePetCare.App.Persistencia.Migrations
                 {
                     b.HasOne("HomePetCare.App.Dominio.Enfermera", "Enfermera")
                         .WithMany()
-                        .HasForeignKey("EnfermeraId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .HasForeignKey("EnfermeraId");
 
                     b.HasOne("HomePetCare.App.Dominio.Historia", "Historia")
                         .WithMany()
-                        .HasForeignKey("HistoriaId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .HasForeignKey("HistoriaId");
 
                     b.HasOne("HomePetCare.App.Dominio.Propietario", "Propietario")
                         .WithMany()
-                        .HasForeignKey("PropietarioId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .HasForeignKey("PropietarioId");
 
                     b.HasOne("HomePetCare.App.Dominio.Veterinario", "Veterinario")
                         .WithMany()
-                        .HasForeignKey("VeterinarioId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .HasForeignKey("VeterinarioId");
 
                     b.Navigation("Enfermera");
 

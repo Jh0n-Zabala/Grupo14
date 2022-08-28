@@ -9,12 +9,12 @@ namespace HomePetCare.App.Dominio
     public class Historia 
     {
         // Identificador único de la Historia
-        public int Id { get; set; }
+        public int? Id { get; set; }
         /// Descripcion detallada del diagnostico del Paciente 
-        public string Diagnostico  { get; set; }
+        public string? Diagnostico  { get; set; }
          /// Descripción de la casa y habitación del Paciente  
-        public string Entorno { get; set; }
+        public string? Entorno { get; set; }
         /// Referencia la lista de sugerencias registradas en la Historia del Paciente
-        public List<Recomendaciones> Recomendaciones { get; set; }
+        public List<Recomendaciones>? Recomendaciones { get; set; }
     }
 }

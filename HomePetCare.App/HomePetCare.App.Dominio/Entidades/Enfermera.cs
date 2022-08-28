@@ -6,8 +6,8 @@ namespace HomePetCare.App.Dominio
     public class Enfermera : Individuo
     {
         /// Numero único de la tarjeta profesional   
-        public string TarjetaProfesional { get; set; }
+        public string? TarjetaProfesional { get; set; }
         /// Cantidad de horas laborales a la semana 
-        public int HorasLaborales { get; set; }
+        public int? HorasLaborales { get; set; }
     }
 }

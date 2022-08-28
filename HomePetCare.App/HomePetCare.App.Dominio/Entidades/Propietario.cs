@@ -5,7 +5,7 @@ namespace HomePetCare.App.Dominio
     /// </summary>   
 	public class Propietario : Individuo
 	{
-		public string Parentesco { get; set; }
-		public string Direccion{get;set;}
+		public string? Parentesco { get; set; }
+		public string? Direccion{get;set;}
 	}
 }
