@@ -30,7 +30,7 @@ namespace HomePetCare.App.Consola
                 // Longitud = 5.07062F,
                 // Latitud = -75.52290F,
                 Ciudad = "Bogota",
-                FechaNacimiento = new DateTime(1990, 04, 12)
+                FechaNacimiento = new DateTime(1990, 04, 11)
             };
             _repoMascota.AddMascota(mascota);
 
