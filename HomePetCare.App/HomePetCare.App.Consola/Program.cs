@@ -14,7 +14,8 @@ namespace HomePetCare.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World EF!------------");
-            AddMascota();
+            //AddMascota();
+            BuscarMascota(1);
         }
 
         private static void AddMascota()
@@ -33,6 +34,12 @@ namespace HomePetCare.App.Consola
             };
             _repoMascota.AddMascota(mascota);
 
+        }
+
+        private static void BuscarMascota(int idMascota)
+        {
+            var mascota = _repoMascota.GetMascota(idMascota);
+            Console.WriteLine(mascota.Nombre + " " + mascota.Apellidos);
         }
 
     }
