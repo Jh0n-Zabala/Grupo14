@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\daniel.vargas\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
+      "projectUniqueName": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
       "projectName": "HomePetCare.App.Frontend",
-      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\",
+      "projectPath": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
