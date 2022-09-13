@@ -13,7 +13,7 @@ namespace HomePetCare.App.Consola
         private static IRepositorioMascota _repoMascota = new RepositorioMascota(new Persistencia.AppContext());
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World EF!------------");
+            Console.WriteLine("Hello World EF");//branch Yineth
             //AddMascota();
             BuscarMascota(1);
         }
