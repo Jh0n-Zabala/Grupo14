@@ -10,3 +10,15 @@ C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCa
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\refint\HomePetCare.App.Dominio.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.pdb
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\ref\HomePetCare.App.Dominio.dll
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\net6.0\HomePetCare.App.Dominio.deps.json
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\net6.0\HomePetCare.App.Dominio.dll
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\bin\Debug\net6.0\HomePetCare.App.Dominio.pdb
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.csproj.AssemblyReference.cache
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.AssemblyInfoInputs.cache
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.AssemblyInfo.cs
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.csproj.CoreCompileInputs.cache
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.dll
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\refint\HomePetCare.App.Dominio.dll
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\HomePetCare.App.Dominio.pdb
+C:\C#\Grupo14-HomePetCare\HomePetCare.App\HomePetCare.App.Dominio\obj\Debug\net6.0\ref\HomePetCare.App.Dominio.dll

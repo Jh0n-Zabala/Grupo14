@@ -14,23 +14,24 @@ namespace HomePetCare.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World EF");//Creacion branch Yineth
-            //AddMascota();
-            BuscarMascota(1);
+            //GetAllMascotas();
+            AddMascota();
+            //BuscarMascota(1);
         }
 
         private static void AddMascota()
         {
             var mascota = new Mascota
             {
-                Nombre = "Rodolfo",
-                Apellidos = "Francis",
+                Nombre = "Toby",
+                Apellidos = "Torres",
                 NumeroTelefono = "31111645",
                 Genero = Genero.Masculino,
                 Direccion = "Calle 44 No 767-4",
                 // Longitud = 5.07062F,
                 // Latitud = -75.52290F,
                 Ciudad = "Bogota",
-                FechaNacimiento = new DateTime(1990, 04, 11)
+                FechaNacimiento = new DateTime(2012, 04, 11)
             };
             _repoMascota.AddMascota(mascota);
 

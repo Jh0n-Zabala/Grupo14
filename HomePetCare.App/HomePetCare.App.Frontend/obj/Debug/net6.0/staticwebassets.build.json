@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rGcH+UNo7uucBceKaR+S5iToq3PHwwBpMLUS/JbeFu0=",
+  "Hash": "PgYbCqnVXWn5G0SstxHrU5YF3f/Nak7whI3mXl0y4qw=",
   "Source": "HomePetCare.App.Frontend",
   "BasePath": "_content/HomePetCare.App.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "HomePetCare.App.Frontend\\wwwroot",
       "Source": "HomePetCare.App.Frontend",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HomePetCare.App.Frontend.styles.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HomePetCare.App.Frontend.styles.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "HomePetCare.App.Frontend.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HomePetCare.App.Frontend.styles.css"
+      "OriginalItemSpec": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HomePetCare.App.Frontend.styles.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HomePetCare.App.Frontend.bundle.scp.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HomePetCare.App.Frontend.bundle.scp.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "HomePetCare.App.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HomePetCare.App.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HomePetCare.App.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\css\\site.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\css\\site.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\css\\style-starter.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\css\\style-starter.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "css/style-starter.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style-starter.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\favicon.ico",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\favicon.ico",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\about.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\about.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/about.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\about2.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\about2.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/about2.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about2.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\banner1.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\banner1.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/banner1.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner1.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\bg.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\bg.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/bg.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\blog1.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\blog1.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/blog1.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog1.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\blog2.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\blog2.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/blog2.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog2.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\blog3.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\blog3.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/blog3.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blog3.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\dog2.png",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\dog2.png",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/dog2.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dog2.png"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g1.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g1.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g1.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g1.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g11.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g11.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g11.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g11.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g2.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g2.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g2.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g2.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g22.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g22.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g22.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g22.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g3.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g3.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g3.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g3.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g33.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g33.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g33.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g33.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g4.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g4.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g4.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g4.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g44.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g44.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g44.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g44.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g5.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g5.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g5.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g5.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g55.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g55.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g55.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g55.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g6.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g6.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g6.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g6.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g66.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g66.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g66.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g66.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g7.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g7.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g7.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g7.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g77.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g77.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g77.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g77.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g8.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g8.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g8.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g8.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g88.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g88.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g88.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g88.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g9.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\g9.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/g9.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g9.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\img1.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\img1.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/img1.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img1.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\img2.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\img2.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/img2.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img2.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\img3.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\img3.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/img3.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img3.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\inner.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\inner.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/inner.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\inner.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\single.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\single.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/single.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\single.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team1.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team1.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/team1.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team1.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team2.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team2.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/team2.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team2.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team3.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team3.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/team3.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team3.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team4.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\team4.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/team4.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team4.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\testi1.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\testi1.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/testi1.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testi1.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\testi2.jpg",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\images\\testi2.jpg",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "images/testi2.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testi2.jpg"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\jquery-3.3.1.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\site.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\site.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\smartphoto.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\smartphoto.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "js/smartphoto.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\js\\smartphoto.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\theme-change.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\js\\theme-change.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "js/theme-change.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\js\\theme-change.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HomePetCare.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\0Prueba\\HomePetCare\\GitHub\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
       "BasePath": "_content/HomePetCare.App.Frontend",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

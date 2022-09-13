@@ -17,16 +17,16 @@ namespace HomePetCare.App.Persistencia
         /// Metodo Constructor Utiiza 
         /// Inyeccion de dependencias para indicar el contexto a utilizar
         /// </summary>
-        /// <param name="appContext"></param>//
+        ///// <param name="appContext"></param>//
         public RepositorioMascota(AppContext appContext)
         {
             _appContext = appContext;
         }
 
 
-        Mascota IRepositorioMascota.AddMascota(Mascota Mascota)
+        Mascota IRepositorioMascota.AddMascota(Mascota mascota)
         {
-            var MascotaAdicionado = _appContext.Mascotas.Add(Mascota);
+            var MascotaAdicionado = _appContext.Mascotas.Add(mascota);
             _appContext.SaveChanges();
             return MascotaAdicionado.Entity;
 
@@ -41,53 +41,53 @@ namespace HomePetCare.App.Persistencia
             _appContext.SaveChanges();
         }
 
-       IEnumerable<Mascota> IRepositorioMascota.GetAllMascotas()
+        public IEnumerable<Mascota> GetAllMascotas()
         {
-            return _appContext.Mascotas;
+            return GetAllMascotas_();
         }
-        // public IEnumerable<Mascota> GetMascotasPorFiltro(string filtro)
-        // {
-        //     var Mascotas = GetAllMascotas(); // Obtiene todos los saludos
-        //     if (Mascotas != null)  //Si se tienen saludos
-        //     {
-        //         if (!String.IsNullOrEmpty(filtro)) // Si el filtro tiene algun valor
-        //         {
-        //             Mascotas = Mascotas.Where(s => s.Nombre.Contains(filtro));
-        //         }
+        public IEnumerable<Mascota> GetMascotasPorFiltro(string filtro)
+        {
+             var mascotas = GetAllMascotas(); // Obtiene todos los saludos
+             if (mascotas != null)  //Si se tienen saludos
+             {
+                 if (!String.IsNullOrEmpty(filtro)) // Si el filtro tiene algun valor
+                 {
+                     mascotas = mascotas.Where(s => s.Nombre.Contains(filtro));
+                 }
 
-        //     }
-        //     return Mascotas;
+             }
+             return mascotas;
 
-        // }
+         }
 
-        // public IEnumerable<Mascota> GetAllMascotas_()
-        // {
-        //     return _appContext.Mascotas;
-        // }
+        public IEnumerable<Mascota> GetAllMascotas_()
+         {
+             return _appContext.Mascotas;
+         }
 
-        Mascota IRepositorioMascota.GetMascota(int idMascota)
+        public Mascota GetMascota(int idMascota)
         {
             return _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
         }
 
-        Mascota IRepositorioMascota.UpdateMascota(Mascota Mascota)
+        Mascota IRepositorioMascota.UpdateMascota(Mascota mascota)
         {
-            var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == Mascota.Id);
+            var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == mascota.Id);
             if (MascotaEncontrado != null)
             {
-                MascotaEncontrado.Nombre = Mascota.Nombre;
-                MascotaEncontrado.Apellidos = Mascota.Apellidos;
-                MascotaEncontrado.NumeroTelefono = Mascota.NumeroTelefono;
-                MascotaEncontrado.Genero = Mascota.Genero;
-                MascotaEncontrado.Direccion = Mascota.Direccion;
+                MascotaEncontrado.Nombre = mascota.Nombre;
+                MascotaEncontrado.Apellidos = mascota.Apellidos;
+                MascotaEncontrado.NumeroTelefono = mascota.NumeroTelefono;
+                MascotaEncontrado.Genero = mascota.Genero;
+                MascotaEncontrado.Direccion = mascota.Direccion;
                 // MascotaEncontrado.Latitud = Mascota.Latitud;
                 // MascotaEncontrado.Longitud = Mascota.Longitud;
-                MascotaEncontrado.Ciudad = Mascota.Ciudad;
-                MascotaEncontrado.FechaNacimiento = Mascota.FechaNacimiento;
-                MascotaEncontrado.Propietario = Mascota.Propietario;
-                MascotaEncontrado.Enfermera = Mascota.Enfermera;
-                MascotaEncontrado.Veterinario = Mascota.Veterinario;
-                MascotaEncontrado.Historia = Mascota.Historia;
+                MascotaEncontrado.Ciudad = mascota.Ciudad;
+                MascotaEncontrado.FechaNacimiento = mascota.FechaNacimiento;
+                MascotaEncontrado.Propietario = mascota.Propietario;
+                MascotaEncontrado.Enfermera = mascota.Enfermera;
+                MascotaEncontrado.Veterinario = mascota.Veterinario;
+                MascotaEncontrado.Historia = mascota.Historia;
 
                 _appContext.SaveChanges();
 
@@ -133,5 +133,21 @@ namespace HomePetCare.App.Persistencia
 
         //     return Mascota.SignosVitales;
         // }
-    }
+        List<Mascota> mascota;
+
+        public RepositorioMascota()
+        {
+            mascota= new List<Mascota>()
+            {
+                new Mascota{Id=11,Nombre="Susy",Raza="Criollo",Edad=5},
+                new Mascota{Id=12,Nombre="Toby",Raza="BassetHound",Edad=10},
+                new Mascota{Id=13,Nombre="Lulu",Raza="BassetHound",Edad=11}
+            };
+        }
+        public IEnumerable<Mascota> GetMascotas()
+        {
+            return mascota;
+        }
+
+    } //Constructor de esta clase
 }

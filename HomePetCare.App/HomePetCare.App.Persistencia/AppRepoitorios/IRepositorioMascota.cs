@@ -7,16 +7,17 @@ using HomePetCare.App.Dominio;
 namespace HomePetCare.App.Persistencia
 {
     public interface IRepositorioMascota
-    {
+    {   
         IEnumerable<Mascota> GetAllMascotas();
-        Mascota AddMascota(Mascota paciente);
-        Mascota UpdateMascota(Mascota paciente);
+        IEnumerable<Mascota> GetMascotas();
+        Mascota AddMascota(Mascota mascota);
+        Mascota UpdateMascota(Mascota mascota);
         void DeleteMascota(int idMascota);    
         Mascota GetMascota(int idMascota);
         // Veterinario AsignarVeterinario(int idMascota, int idVeterinario); 
         // IEnumerable<Mascota>  GetMascotasMasculinos();
         // IEnumerable<Mascota> GetMascotasCorazon();
-        // IEnumerable<Mascota> GetMascotasPorFiltro(string filtro);
+         IEnumerable<Mascota> GetMascotasPorFiltro(string filtro);
         // IEnumerable<SignoVital> GetSignosMascota(int idMascota);
              
        
