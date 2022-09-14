@@ -1,11 +1,16 @@
-// using HomePetCare.App.Persistencia;
-// using HomePetCare.App.Dominio;
+using HomePetCare.App.Persistencia;
+using HomePetCare.App.Dominio;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-// builder.Services.AddSingleton<IRepositorioMascota, RepositorioMascota>();
+//builder.Services.AddControllersWithViews();
+//builder.Services.AddSingleton<IRepositorioMascota, RepositorioMascota>();
+//builder.Services.AddDbContext<HomePetCare.App.Persistencia.AppContext>();
+
 
 var app = builder.Build();
 

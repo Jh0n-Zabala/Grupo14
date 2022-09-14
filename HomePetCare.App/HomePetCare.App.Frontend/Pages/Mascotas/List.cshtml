@@ -2,30 +2,74 @@
 @model HomePetCare.App.Frontend.Pages.ListModel
 @{
 }
-<h1>Lista de saludos</h1>
+<h1>Lista de Mascotas</h1>
 <table class="table">
-            <thead>
+    <thead>   
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Edad</th>
+                <th>Raza</th>
+                <th>Detalle</th>
+                <th>Editar</th>
+                <th>Eliminar</th>
+                
+            </tr>
+    </thead>
+    @foreach (var mascota in Model.Mascotas)
+    {
+        
+        <tbody> 
+            <tr> 
+                <td>@mascota.Id</td>
+                <td>@mascota.Nombre</td>
+                <td>@mascota.Apellidos</td>
+                <td>@mascota.Edad</td>
+                <td>@mascota.Raza</td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-mascotaId="@mascota.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-mascotaId="@mascota.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+                </td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-mascotaId="@mascota.Id">
+                    <i class="fas fa-trash" aria-hidden="true"></i>
+
+                </a>
+            </td>
+            </tr>
+        </tbody>    
+    }
+</table>    
+@*<table class="table">
+           <thead>
                 <tr>
                     <th>Id</th>
                     <th>Nombre</th>
-                    <th>Propietario</th>
-                    <th>Veterinario</th>
+                    <th>Edad</th>
+                    <th>Raza</th>
                     <th></th>
                     <th></th>
                     <th></th>
                 </tr>
-            </thead>
-
-            <tbody>
+            </thead>  <tbody>  </tbody>
+            
                 @foreach (var mascota in Model.Mascotas)
                 {
                     <tr>
                         <td>@mascota.Id</td>
                         <td>@mascota.Nombre</td>
+                        <td>@mascota.Edad</td>
+                        <td>@mascota.Raza</td>
                         <td>
                             @try
                             {
-                                @mascota.Propietario.Nombre <b></b> @mascota.Propietario.Apellidos;
+                                @mascota.Id <b></b> @mascota.Propietario.Nombre;
                                 <a asp-page="/Assigns/Assign" asp-route-idMascota="@mascota.Id" style="float: right" title="Edit Owner"><i class="lni lni-pencil-alt"></i></a>
                             }
                             catch (Exception)
@@ -34,6 +78,17 @@
                             }
                         </td>
                         <td>
+                            @try
+                            {
+                                @mascota.Id <b></b> @mascota.Edad;
+                                <a asp-page="/Assigns/Assign" asp-route-idMascota="@mascota.Id" style="float: right" title="Edit Owner"><i class="lni lni-pencil-alt"></i></a>
+                            }
+                            catch (Exception)
+                            {
+                                <a asp-page="/Assigns/Assign" asp-route-idMascota="@mascota.Id" title="Assign Owner"><i class="lni lni-circle-plus"></i></a>
+                            }
+                        </td>
+                        @*<td>
                             @try
                             {
                                 @mascota.Veterinario.Nombre <b></b> @mascota.Veterinario.Apellidos;
@@ -62,6 +117,6 @@
                         </td>
                     </tr>
                 }
-            </tbody>
             
-        </table>
+            
+</table>*@

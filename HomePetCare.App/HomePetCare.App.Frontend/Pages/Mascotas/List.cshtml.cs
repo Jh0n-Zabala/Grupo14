@@ -7,19 +7,20 @@ namespace HomePetCare.App.Frontend.Pages
 {
     public class ListModel : PageModel
     {
-        private static IRepositorioMascota irepositorioMascota = new RepositorioMascota(new Persistencia.AppContext());
-        // private readonly IRepositorioMascota irepositorioMascota;
+        //private static IRepositorioMascota irepositorioMascota = new RepositorioMascota(new Persistencia.AppContext());
+         private readonly IRepositorioMascota irepositorioMascota;
         
-        [BindProperty(SupportsGet  =true)]
-        public string FiltroBusqueda { get; set; }
+        //[BindProperty(SupportsGet  =true)]
+        //public string FiltroBusqueda { get; set; }
         public IEnumerable<Mascota> Mascotas { get; set; }
-        public Mascota Mascota { get; set; }
+    
+        //public Mascota Mascota { get; set; }
 
-        // public ListModel(IRepositorioMascota irepositorioMascota)
-        // {
+         public ListModel() //(IRepositorioMascota irepositorioMascota)
+         {
         //     this.irepositorioMascota = irepositorioMascota;
-        //     this.irepositorioMascota = new RepositorioMascota(new HomePetCare.App.Persistencia.AppContext());
-        // }
+             this.irepositorioMascota = new RepositorioMascota(new HomePetCare.App.Persistencia.AppContext());
+         }
         public void OnGet()
         {
             Mascotas = irepositorioMascota.GetAllMascotas();
