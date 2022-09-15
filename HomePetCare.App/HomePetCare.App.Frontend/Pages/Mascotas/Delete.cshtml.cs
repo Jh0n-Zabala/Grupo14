@@ -7,25 +7,25 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using HomePetCare.App.Persistencia;
 using HomePetCare.App.Dominio;
 
-/*namespace HomePetCare.App.Frontend.Pages
+namespace HomePetCare.App.Frontend.Pages
 {
     public class DeleteModel : PageModel
     {
         private readonly IRepositorioMascota repositorioMascota;
         [BindProperty]
-        public Mascota Mascotas{get;set;}
+        public Mascota Mascota{get;set;}
         public DeleteModel()
         {
             this.repositorioMascota=new RepositorioMascota(new HomePetCare.App.Persistencia.AppContext());
         }
-        public IActionResult OnGet(int mascotaId)
+        public IActionResult OnGet(int? mascotaId)
         {
             if (mascotaId.HasValue)
             {
-                Mascotas = repositorioMascota.GetMascota(mascotaId.Value);
+                Mascota = repositorioMascota.GetMascota(mascotaId.Value);
             }
             
-            if (Mascotas == null)
+            if (Mascota == null)
             {
                 return RedirectToPage("./Notfound");
             }
@@ -41,16 +41,12 @@ using HomePetCare.App.Dominio;
                 {
                     return Page();
                 }
-                if (Mascotas.Id>0)
+                if (Mascota.Id>0)
                 {
                     
-                    repositorioMascota.DeleteMascota(Mascotas.Id);
-                }
-                else
-                {
-                    repositorioMascota.AddMascota(Mascotas);
+                    repositorioMascota.DeleteMascota(Mascota.Id);
                 }
                 return Page();
         }
     }
-}*/
+}

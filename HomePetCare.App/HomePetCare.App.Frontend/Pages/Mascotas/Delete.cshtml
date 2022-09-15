@@ -1,45 +1,22 @@
-﻿@*@page
+﻿@page
 @model HomePetCare.App.Frontend.Pages.DeleteModel
 @{
 }
 <h2>Borrado de Mascotas</h2>
 <form method="post">
-    <input type="hidden" asp-for="Mascotas.Id"/>
+    <input type="hidden" asp-for="Mascota.Id"/>
     <div class="form-group">
-        <label asp-for="Mascotas.idMascota"></label>
-        <input asp-for="Mascotas.idMascota" class="form-control">
-        <span class="text-danger" asp-validation-for="Mascota.idMascota"></span>
-    </div>
-    <!--<input type="hidden" asp-for="Cliente.Id"/>
-    <div class="form-group">
-        <label asp-for="Cliente.idPersona"></label>
-        <input asp-for="Cliente.idPersona" class="form-control">
-        <span class="text-danger" asp-validation-for="Cliente.idPersona"></span>
-    </div>-->
-    <!--<div class="form-group">
-        <label asp-for="Mascota.nombre"></label>
-        <input asp-for="Mascota.nombre" class="form-control">
-        <span class="text-danger" asp-validation-for="Mascota.nombre"></span>
+        <label asp-for="Mascota.Id"></label>
+        <input asp-for="Mascota.Id" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Id"></span>
     </div>
     <div class="form-group">
-        <label asp-for="Mascota.apellidos"></label>
-        <input asp-for="Mascota.apellidos" class="form-control">
-        <span class="text-danger" asp-validation-for="Mascota.apellidos"></span>
+        <label asp-for="Mascota.Nombre"></label>
+        <input asp-for="Mascota.Nombre" class ="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Nombre"></span>
     </div>
-    <div class="form-group">
-        <label asp-for="Cliente.telefono"></label>
-        <input asp-for="Cliente.telefono" class="form-control">
-        <span class="text-danger" asp-validation-for="Cliente.telefono"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Mascota.direccion"></label>
-        <input asp-for="Mascota.direccion" class="form-control">
-        <span class="text-danger" asp-validation-for="Mascota.direccion"></span>
-    </div>-->
-    
-    
     <button type="submit" class="btn btn-primary">Borrar</button>
     
 
 </form>
-<a asp-page="./List" class="btn-default">Volver a la lista de Mascotas</a>*@
+<a asp-page="./List" class="btn-default">Volver a la lista de Mascotas</a>
