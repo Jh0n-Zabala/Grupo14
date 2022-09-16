@@ -16318,11 +16318,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\Pages\\Mascotas\\Details.cshtml",
-      "TargetPath": "Pages\\Mascotas\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -16345,6 +16340,11 @@
     {
       "FilePath": "c:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\Pages\\Mascotas\\List.cshtml",
       "TargetPath": "Pages\\Mascotas\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\Pages\\Mascotas\\Add.cshtml",
+      "TargetPath": "Pages\\Mascotas\\Add.cshtml",
       "FileKind": "mvc"
     },
     {
