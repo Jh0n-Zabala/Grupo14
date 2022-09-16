@@ -11,7 +11,6 @@
                 <th>Apellidos</th>
                 <th>Edad</th>
                 <th>Raza</th>
-                <th>Detalle</th>
                 <th>Editar</th>
                 <th>Eliminar</th>
                 
@@ -27,10 +26,7 @@
                 <td>@mascota.Apellidos</td>
                 <td>@mascota.Edad</td>
                 <td>@mascota.Raza</td>
-                <td>
-                    <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-mascotaId="@mascota.Id">
-                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
-                </a>
+
                 <td>
                     <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-mascotaId="@mascota.Id">
                     <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
@@ -41,7 +37,7 @@
                     <i class="fas fa-trash" aria-hidden="true"></i>
 
                 </a>
-            </td>
+                </td>
             </tr>
         </tbody>    
     }

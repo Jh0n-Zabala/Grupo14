@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IoSt37pozO+xiXFVyJB4L8GwXTPJqsLlzcQespEOEFw=",
+  "Hash": "/0HT/h0rbg/6lFL3D+UOiA0Nc78+gNdX4/rWZ+b2Vb4=",
   "Source": "HomePetCare.App.Frontend",
   "BasePath": "_content/HomePetCare.App.Frontend",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HomePetCare.App.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\css\\main.css",
+      "SourceId": "HomePetCare.App.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\",
+      "BasePath": "_content/HomePetCare.App.Frontend",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
       "Identity": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\wwwroot\\css\\site.css",
