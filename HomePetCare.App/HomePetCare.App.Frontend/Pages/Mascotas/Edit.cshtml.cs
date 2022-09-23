@@ -12,6 +12,7 @@ namespace HomePetCare.App.Frontend.Pages
     public class EditModel : PageModel
     {
         private readonly IRepositorioMascota repositorioMascota;
+        //Enlace de datos del formulario al modelo con la pagina razor
         [BindProperty]
 
         public Mascota Mascota{set;get;}
@@ -39,6 +40,8 @@ namespace HomePetCare.App.Frontend.Pages
                 return Page();
             }
         }
+
+        //Cuando se envian datos al servidor
         public IActionResult OnPost()
         {
                 if (!ModelState.IsValid)

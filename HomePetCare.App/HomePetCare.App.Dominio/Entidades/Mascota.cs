@@ -7,7 +7,6 @@ namespace HomePetCare.App.Dominio
     /// </summary>      
     public class Mascota : Individuo
     {
-        public int? Id{get;set;}
 		public string? Raza{get;set;}
 		public int? Edad{get;set;}
         public string? Direccion { get; set; }

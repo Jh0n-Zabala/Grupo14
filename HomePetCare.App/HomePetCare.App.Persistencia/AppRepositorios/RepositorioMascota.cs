@@ -32,7 +32,7 @@ namespace HomePetCare.App.Persistencia
 
         }
 
-        void IRepositorioMascota.DeleteMascota(int idMascota)
+        void IRepositorioMascota.DeleteMascota(int? idMascota)
         {
             var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
             if (MascotaEncontrado == null)
@@ -45,27 +45,27 @@ namespace HomePetCare.App.Persistencia
         {
             return _appContext.Mascotas;
         }
-        // public IEnumerable<Mascota> GetMascotasPorFiltro(string filtro)
-        // {
-        //     var Mascotas = GetAllMascotas(); // Obtiene todos los saludos
-        //     if (Mascotas != null)  //Si se tienen saludos
-        //     {
-        //         if (!String.IsNullOrEmpty(filtro)) // Si el filtro tiene algun valor
-        //         {
-        //             Mascotas = Mascotas.Where(s => s.Nombre.Contains(filtro));
-        //         }
+        public IEnumerable<Mascota> GetMascotasPorFiltro(string filtro)
+        {
+            var Mascotas = GetAllMascotas_(); // Obtiene todos los saludos
+            if (Mascotas != null)  //Si se tienen saludos
+            {
+                if (!String.IsNullOrEmpty(filtro)) // Si el filtro tiene algun valor
+                {
+                    Mascotas = Mascotas.Where(s => s.Nombre.Contains(filtro));
+                }
 
-        //     }
-        //     return Mascotas;
+            }
+            return Mascotas;
 
-        // }
+        }
 
-        // public IEnumerable<Mascota> GetAllMascotas_()
-        // {
-        //     return _appContext.Mascotas;
-        // }
+        public IEnumerable<Mascota> GetAllMascotas_()
+        {
+            return _appContext.Mascotas;
+        }
 
-        Mascota IRepositorioMascota.GetMascota(int idMascota)
+        Mascota IRepositorioMascota.GetMascota(int? idMascota)
         {
             return _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
         }

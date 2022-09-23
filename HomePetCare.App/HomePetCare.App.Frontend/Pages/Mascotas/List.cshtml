@@ -11,6 +11,7 @@
                 <th>Apellidos</th>
                 <th>Edad</th>
                 <th>Raza</th>
+                <th>Detalle</th>
                 <th>Editar</th>
                 <th>Eliminar</th>
                 
@@ -26,23 +27,27 @@
                 <td>@mascota.Apellidos</td>
                 <td>@mascota.Edad</td>
                 <td>@mascota.Raza</td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-mascotaId="@mascota.Id">
+                        <i class="fa fa-info-circle" aria-hidden="true"></i> Detalle
+                    </a>
+                </td>
 
                 <td>
                     <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-mascotaId="@mascota.Id">
-                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
-                </a>
+                        <i class="fas fa-address-book fa-lg" aria-hidden="true"></i> Edit
+                    </a>
                 </td>
                 <td>
                     <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-mascotaId="@mascota.Id">
-                    <i class="fas fa-trash" aria-hidden="true"></i>
-
-                </a>
+                        <i class="fas fa-trash" aria-hidden="true"></i> Delete
+                    </a>
                 </td>
             </tr>
         </tbody>    
     }
 </table>    
-<a asp-page="./Add" class="btn-default">Agregar nueva mascota</a>
+<a asp-page="./Add" class="btn btn-default">Agregar nueva mascota</a>
 @*<table class="table">
            <thead>
                 <tr>

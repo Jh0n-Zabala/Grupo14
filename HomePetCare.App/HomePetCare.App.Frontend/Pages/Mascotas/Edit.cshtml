@@ -12,8 +12,8 @@
 
 <form method="post">
 
-     <input type="hidden" asp-for="Mascota.Id" />
-
+    @* //Que haga enlace pero no quiero que aparezca en la iterfas  *@
+    <input type="hidden" asp-for="Mascota.Id" />
     <div class="formulario">
         <label asp-for="Mascota.Id"></label>
         <input asp-for="Mascota.Id" class="form-control">

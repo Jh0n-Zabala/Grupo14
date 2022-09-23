@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj": {}
+    "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
+    "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
+        "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
         "projectName": "HomePetCare.App.Dominio",
-        "projectPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Admin.DESKTOP-TKCDPMK\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\obj\\",
+        "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin.DESKTOP-TKCDPMK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -57,17 +57,17 @@
         }
       }
     },
-    "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj": {
+    "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
+        "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
         "projectName": "HomePetCare.App.Frontend",
-        "projectPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\Admin.DESKTOP-TKCDPMK\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\",
+        "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\HomePetCare.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin.DESKTOP-TKCDPMK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -79,11 +79,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
-                "projectPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj"
+              "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
+                "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj"
               },
-              "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {
-                "projectPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj"
+              "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {
+                "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj"
               }
             }
           }
@@ -142,17 +142,17 @@
         }
       }
     },
-    "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {
+    "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
         "projectName": "HomePetCare.App.Persistencia",
-        "projectPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Admin.DESKTOP-TKCDPMK\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\obj\\",
+        "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
+        "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin.DESKTOP-TKCDPMK\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -164,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
-                "projectPath": "C:\\C#\\Grupo14-HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj"
+              "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
+                "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj"
               }
             }
           }
