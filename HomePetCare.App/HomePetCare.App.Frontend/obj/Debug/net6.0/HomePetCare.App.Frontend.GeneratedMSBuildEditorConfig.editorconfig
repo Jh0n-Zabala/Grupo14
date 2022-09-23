@@ -27,6 +27,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzY290YXNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/ProyectsSoftware/FreeLancer/Net/Mis_Repos/mintic_2022_ciclo3_DotNet/HomePetCare/HomePetCare.App/HomePetCare.App.Frontend/Pages/Mascotas/AsociarVet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzY290YXNcQXNvY2lhclZldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/ProyectsSoftware/FreeLancer/Net/Mis_Repos/mintic_2022_ciclo3_DotNet/HomePetCare/HomePetCare.App/HomePetCare.App.Frontend/Pages/Mascotas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzY290YXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -49,6 +53,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/ProyectsSoftware/FreeLancer/Net/Mis_Repos/mintic_2022_ciclo3_DotNet/HomePetCare/HomePetCare.App/HomePetCare.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ProyectsSoftware/FreeLancer/Net/Mis_Repos/mintic_2022_ciclo3_DotNet/HomePetCare/HomePetCare.App/HomePetCare.App.Frontend/Pages/Veterinarios/AddVeterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmV0ZXJpbmFyaW9zXEFkZFZldGVyaW5hcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ProyectsSoftware/FreeLancer/Net/Mis_Repos/mintic_2022_ciclo3_DotNet/HomePetCare/HomePetCare.App/HomePetCare.App.Frontend/Pages/Veterinarios/ListVet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmV0ZXJpbmFyaW9zXExpc3RWZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/ProyectsSoftware/FreeLancer/Net/Mis_Repos/mintic_2022_ciclo3_DotNet/HomePetCare/HomePetCare.App/HomePetCare.App.Frontend/Pages/_ViewImports.cshtml]

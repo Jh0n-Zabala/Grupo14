@@ -109,7 +109,7 @@ namespace HomePetCare.App.Persistencia
             return MascotaEncontrado;
         }
 
-        public Veterinario AsignarVeterinario(int idMascota, int idMedico)
+        public Veterinario AsignarVeterinario(int? idMascota, int? idMedico)
          {
              var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
              if (MascotaEncontrado != null)
@@ -138,7 +138,7 @@ namespace HomePetCare.App.Persistencia
         //                            .ToList();
         // }
 
-         IEnumerable<SignoVital> IRepositorioMascota.GetSignosMascota(int idMascota)
+         IEnumerable<SignoVital> IRepositorioMascota.GetSignosMascota(int? idMascota)
          {
             var Mascota = _appContext.Mascotas.Where(s => s.Id==idMascota)
                                                 .Include(s=>s.SignosVitales)
