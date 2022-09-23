@@ -14,6 +14,7 @@
                 <th>Detalle</th>
                 <th>Editar</th>
                 <th>Eliminar</th>
+                <th>Asignar Veterinario</th>
                 
             </tr>
     </thead>
@@ -42,6 +43,12 @@
                     <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-mascotaId="@mascota.Id">
                         <i class="fas fa-trash" aria-hidden="true"></i> Delete
                     </a>
+                </td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./AsociarVet" asp-route-mascotaId="@mascota.Id">
+                    <i class="fas fa-trash" aria-hidden="true"></i>
+
+                </a>
                 </td>
             </tr>
         </tbody>    

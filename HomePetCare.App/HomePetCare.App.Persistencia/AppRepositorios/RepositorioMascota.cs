@@ -9,15 +9,8 @@ namespace HomePetCare.App.Persistencia
 
     public class RepositorioMascota : IRepositorioMascota
     {
-        /// <summary>
-        /// Referencia al contexto de Mascota
-        /// </summary>
         private readonly AppContext _appContext;
-        /// <summary>
-        /// Metodo Constructor Utiiza 
-        /// Inyeccion de dependencias para indicar el contexto a utilizar
-        /// </summary>
-        /// <param name="appContext"></param>//
+        
         public RepositorioMascota(AppContext appContext)
         {
             _appContext = appContext;
@@ -40,6 +33,27 @@ namespace HomePetCare.App.Persistencia
             _appContext.Mascotas.Remove(MascotaEncontrado);
             _appContext.SaveChanges();
         }
+        /*void AddSignosMascota(int idMascota)
+        {
+            var mascota = _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
+            if (mascota != null)
+            {
+                if (mascota.SignosVitales != null)
+                {
+                    
+                    mascota.SignosVitales.Add(new SignoVital { FechaHora = new DateTime(2021, 07, 10, 10, 50, 0), Valor = 86, Signo = TipoSigno.FrecuenciaCardica });
+                }
+                else
+                {
+                    mascota.SignosVitales = new List<SignoVital> {
+                        new SignoVital{FechaHora= new DateTime(2021,07,10,10,50,0),Valor=86,Signo=TipoSigno.FrecuenciaCardica}
+                    };
+                }
+                _appContext.Mascotas.Update(mascota);
+            }
+
+
+        }*/
 
        IEnumerable<Mascota> IRepositorioMascota.GetAllMascotas()
         {
@@ -67,7 +81,7 @@ namespace HomePetCare.App.Persistencia
 
         Mascota IRepositorioMascota.GetMascota(int? idMascota)
         {
-            return _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
+            return _appContext.Mascotas.Include(a => a.SignosVitales).FirstOrDefault(p => p.Id == idMascota);
         }
 
         Mascota IRepositorioMascota.UpdateMascota(Mascota Mascota)
@@ -75,13 +89,12 @@ namespace HomePetCare.App.Persistencia
             var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == Mascota.Id);
             if (MascotaEncontrado != null)
             {
+                //MascotaEncontrado.idMascota = Mascota.Id;
                 MascotaEncontrado.Nombre = Mascota.Nombre;
                 MascotaEncontrado.Apellidos = Mascota.Apellidos;
                 MascotaEncontrado.NumeroTelefono = Mascota.NumeroTelefono;
                 MascotaEncontrado.Genero = Mascota.Genero;
                 MascotaEncontrado.Direccion = Mascota.Direccion;
-                // MascotaEncontrado.Latitud = Mascota.Latitud;
-                // MascotaEncontrado.Longitud = Mascota.Longitud;
                 MascotaEncontrado.Ciudad = Mascota.Ciudad;
                 MascotaEncontrado.FechaNacimiento = Mascota.FechaNacimiento;
                 MascotaEncontrado.Propietario = Mascota.Propietario;
@@ -96,21 +109,21 @@ namespace HomePetCare.App.Persistencia
             return MascotaEncontrado;
         }
 
-        // public Medico AsignarMedico(int idMascota, int idMedico)
-        // {
-        //     var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
-        //     if (MascotaEncontrado != null)
-        //     {
-        //         var medicoEncontrado = _appContext.Medicos.FirstOrDefault(m => m.Id == idMedico);
-        //         if (medicoEncontrado != null)
-        //         {
-        //             MascotaEncontrado.Medico = medicoEncontrado;
-        //             _appContext.SaveChanges();
-        //         }
-        //         return medicoEncontrado;
-        //     }
-        //     return null;
-        // }
+        public Veterinario AsignarVeterinario(int idMascota, int idMedico)
+         {
+             var MascotaEncontrado = _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
+             if (MascotaEncontrado != null)
+             {
+                 var VeterinarioEncontrado = _appContext.Veterinarios.FirstOrDefault(m => m.Id == idMedico);
+                 if (VeterinarioEncontrado != null)
+                 {
+                     MascotaEncontrado.Veterinario = VeterinarioEncontrado;
+                     _appContext.SaveChanges();
+                 }
+                 return VeterinarioEncontrado;
+             }
+             return null;
+         }
 
         // public IEnumerable<Mascota> GetMascotasMasculinos()
         // {
@@ -125,13 +138,21 @@ namespace HomePetCare.App.Persistencia
         //                            .ToList();
         // }
 
-        // IEnumerable<SignoVital> IRepositorioMascota.GetSignosMascota(int idMascota)
-        // {
-        //     var Mascota = _appContext.Mascotas.Where(s => s.Id==idMascota)
-        //                                        .Include(s=>s.SignosVitales)
-        //                                        .FirstOrDefault();
+         IEnumerable<SignoVital> IRepositorioMascota.GetSignosMascota(int idMascota)
+         {
+            var Mascota = _appContext.Mascotas.Where(s => s.Id==idMascota)
+                                                .Include(s=>s.SignosVitales)
+                                                .FirstOrDefault();
 
-        //     return Mascota.SignosVitales;
-        // }
+            return Mascota.SignosVitales;
+         }
+
+       /* SignoVital IRepositorioMascota.AddSignoVital(SignoVital SignoVital)
+        {
+            var SignoVitalAdicionado = _appContext.Mascotas.Add(SignoVital);
+            _appContext.SaveChanges();
+            return SignoVitalAdicionado.Entity;
+
+        }*/
     }
 }

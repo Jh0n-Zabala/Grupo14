@@ -1,0 +1,32 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.AsociarVetModel
+@{
+}
+<h2>Asociar Veterinario</h2>
+<form method="post">
+    <input type="hidden" asp-for="Mascota.Id"/>
+    <div class="formulario">
+        <label asp-for="Mascota.Id"></label>
+        <input asp-for="Mascota.Id" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Id"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Mascota.Nombre"></label>
+        <input asp-for="Mascota.Nombre" class ="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Nombre"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Veterinario.Id"></label>
+        <input asp-for="Veterinario.Id" class ="form-control">
+        <span class="text-danger" asp-validation-for="Veterinario.Id"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Veterinario.Nombre"></label>
+        <input asp-for="Veterinario.Nombre" class ="form-control">
+        <span class="text-danger" asp-validation-for="Veterinario.Nombre"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    
+
+</form>
+<a asp-page="./List" class="btn-default">Volver a la lista de Mascotas</a>
