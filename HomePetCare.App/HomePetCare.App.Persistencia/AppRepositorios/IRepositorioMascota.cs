@@ -11,13 +11,15 @@ namespace HomePetCare.App.Persistencia
         IEnumerable<Mascota> GetAllMascotas();
         Mascota AddMascota(Mascota paciente);
         Mascota UpdateMascota(Mascota paciente);
-        void DeleteMascota(int idMascota);    
+        void DeleteMascota(int idMascota);  
+        //void AddSignosMascota(int idMascota);  
         Mascota GetMascota(int idMascota);
-        // Veterinario AsignarVeterinario(int idMascota, int idVeterinario); 
+        Veterinario AsignarVeterinario(int idMascota, int idVeterinario); 
         // IEnumerable<Mascota>  GetMascotasMasculinos();
         // IEnumerable<Mascota> GetMascotasCorazon();
         // IEnumerable<Mascota> GetMascotasPorFiltro(string filtro);
-        // IEnumerable<SignoVital> GetSignosMascota(int idMascota);
+         IEnumerable<SignoVital> GetSignosMascota(int idMascota);
+        /* SignoVital AddSignoVital(SignoVital signoVital);*/
              
        
     }
