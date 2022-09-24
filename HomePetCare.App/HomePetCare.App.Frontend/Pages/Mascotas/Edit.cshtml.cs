@@ -54,10 +54,10 @@ namespace HomePetCare.App.Frontend.Pages
                     Mascota= repositorioMascota.UpdateMascota(Mascota);
 
                 }
-                else
+                /*else
                 {
                     repositorioMascota.AddMascota(Mascota);
-                }
+                }*/
                 return Page();
         }
     }
