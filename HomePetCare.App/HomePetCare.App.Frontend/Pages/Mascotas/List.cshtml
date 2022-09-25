@@ -1,0 +1,57 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.ListModel
+@{
+}
+<h1>Lista de Mascotas</h1>
+<table class="table">
+    <thead>   
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Edad</th>
+                <th>Raza</th>
+                <th>Detalle</th>
+                <th>Editar</th>
+                <th>Eliminar</th>
+                <th>Asignar Veterinario</th>
+                
+            </tr>
+    </thead>
+    @foreach (var mascota in Model.Mascotas)
+    {
+        
+        <tbody> 
+            <tr> 
+                <td>@mascota.Id</td>
+                <td>@mascota.Nombre</td>
+                <td>@mascota.Apellidos</td>
+                <td>@mascota.Edad</td>
+                <td>@mascota.Raza</td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-mascotaId="@mascota.Id">
+                        <i class="fa fa-info-circle" aria-hidden="true"></i> Detalle
+                    </a>
+                </td>
+
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-mascotaId="@mascota.Id">
+                        <i class="fas fa-address-book fa-lg" aria-hidden="true"></i> Edit
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-mascotaId="@mascota.Id">
+                        <i class="fas fa-trash" aria-hidden="true"></i> Delete
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./AsociarVet" asp-route-mascotaId="@mascota.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i> Veterinario
+
+                </a>
+                </td>
+            </tr>
+        </tbody>    
+    }
+</table>    
+<a asp-page="./Add" class="btn-default">Agregar nueva mascota</a>

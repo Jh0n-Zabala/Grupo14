@@ -1,0 +1,27 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.AsociarVetModel
+@{
+}
+<h2>Asociar Veterinario</h2>
+<form method="post">
+    <div class="form-group">
+        <input type="hidden" asp-for="Mascota.Id"/>
+    
+        <label asp-for="Mascota.Id"></label>
+        <input asp-for="Mascota.Id" class="form-control">
+        <label asp-for="Mascota.Nombre"></label>
+        <input asp-for="Mascota.Nombre" class ="form-control">
+
+        <label for="Veterinario"> Veterinario </label>
+        <select id="Veterinario" asp-for= "Mascota.Veterinario.Id" name = "VeterinarioId">
+            <option value="0">Seleccione un Veterinario</option>
+            @foreach (var Veterinario in Model.listVeterinarios)
+            {
+                <option value="@Veterinario.Id">@Veterinario.Nombre @Veterinario.Apellidos</option>
+            }
+        </select>
+
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+</form>
+<a asp-page="./List" class="btn-default">Volver a la lista de Mascotas</a> 
