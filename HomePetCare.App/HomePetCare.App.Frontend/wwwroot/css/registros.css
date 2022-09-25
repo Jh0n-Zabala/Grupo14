@@ -1,0 +1,16 @@
+.botones{
+    display: flex!important;
+}
+.titulo{
+    margin-left: 0.8rem;
+    margin-top: 0.5rem;
+}
+.contenedor{
+    margin: 4rem 4rem 5rem 6rem;
+}
+
+.btn-añadir{
+    color: #fff!important;
+    background-color: #4285f4!important;
+    border-color: #4285f4!important;
+}

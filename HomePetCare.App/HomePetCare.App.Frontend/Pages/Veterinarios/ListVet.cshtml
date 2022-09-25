@@ -1,0 +1,49 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.ListVetModel
+@{
+}
+<h1>Lista de Veterinarios</h1>
+<table class="table">
+    <thead>   
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Num Telefono</th>
+                <th>Codigo</th>
+                <th>Genero</th>
+                <th>Registro</th>
+                <th>Editar</th>
+                <th>Eliminar</th>
+                
+            </tr>
+    </thead>
+    @foreach (var veterinario in Model.Veterinarios)
+    {
+        
+        <tbody> 
+            <tr> 
+                <td>@veterinario.Id</td>
+                <td>@veterinario.Nombre</td>
+                <td>@veterinario.Apellidos</td>
+                <td>@veterinario.NumeroTelefono</td>
+                <td>@veterinario.Codigo</td>
+                <td>@veterinario.Genero</td>
+                <td>@veterinario.RegistroRethus</td>
+
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-mascotaId="@veterinario.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+                </td>
+                <td>
+                    <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-mascotaId="@veterinario.Id">
+                    <i class="fas fa-trash" aria-hidden="true"></i>
+
+                </a>
+                </td>
+            </tr>
+        </tbody>    
+    }
+</table>    
+<a asp-page="./AddVeterinario" class="btn-default">Agregar nuevo Veterinario</a>

@@ -1,0 +1,26 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.DetailsModel
+@{
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/registros.css" />
+</head>
+<h2>Datos Detallados de Mascota @Model.Mascota.Nombre @Model.Mascota.Apellidos</h2>
+<div>
+    Nombre: @Model.Mascota.Nombre
+</div>
+<div>
+    Apellidos: @Model.Mascota.Apellidos
+</div>
+<div>
+    Telefono: @Model.Mascota.NumeroTelefono
+</div>
+<div>
+    Ciudad: @Model.Mascota.Ciudad
+</div>
+<div>
+    Dirección: @Model.Mascota.Direccion
+</div>
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de Mascotas.. </a>
