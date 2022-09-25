@@ -11,13 +11,15 @@ namespace HomePetCare.App.Consola
     {
 
         private static IRepositorioMascota _repoMascota = new RepositorioMascota(new Persistencia.AppContext());
+        private static IRepositorioVeterinario _repoVet = new RepositorioVeterinario(new Persistencia.AppContext());
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World EF");//branch Yineth
             //AddMascota();
             //BuscarMascota(2);
             //AddSignosMascota(5);
-            AsignarVeterinario();
+            //AsignarVeterinario();
+            BuscarVeterinario(14);
         }
 
         private static void AddMascota()
@@ -44,6 +46,11 @@ namespace HomePetCare.App.Consola
         {
             var mascota = _repoMascota.GetMascota(idMascota);
             Console.WriteLine(mascota.Nombre + " " + mascota.Apellidos);
+        }
+        private static void BuscarVeterinario(int idVeterinario)
+        {
+            var veterinario = _repoVet.GetVeterinario(idVeterinario);
+            Console.WriteLine(veterinario.Nombre + " " + veterinario.Apellidos);
         }
 
         /*private static void ListarSignosMascota(int idMascota)

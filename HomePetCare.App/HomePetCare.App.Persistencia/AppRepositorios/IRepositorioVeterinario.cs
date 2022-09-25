@@ -9,10 +9,10 @@ namespace HomePetCare.App.Persistencia
     public interface IRepositorioVeterinario
     {
         IEnumerable<Veterinario> GetAllVeterinario();
-        Veterinario GetVeterinario(int idVeterinario);
+        Veterinario GetVeterinario(int? idVeterinario);
         Veterinario AddVeterinario(Veterinario veterinario);
         Veterinario UpdateVeterinario(Veterinario veterinario);
-        void DeleteVeterinario(int idVeterinario);    
+        void DeleteVeterinario(int? idVeterinario);    
                    
     }
 }

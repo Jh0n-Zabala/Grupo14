@@ -81,7 +81,7 @@ namespace HomePetCare.App.Persistencia
 
         Mascota IRepositorioMascota.GetMascota(int? idMascota)
         {
-            return _appContext.Mascotas.Include(a => a.SignosVitales).FirstOrDefault(p => p.Id == idMascota);
+            return _appContext.Mascotas.FirstOrDefault(p => p.Id == idMascota);
         }
 
         Mascota IRepositorioMascota.UpdateMascota(Mascota Mascota)

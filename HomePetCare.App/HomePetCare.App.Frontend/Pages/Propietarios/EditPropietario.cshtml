@@ -1,0 +1,26 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.EditPropietarioModel
+@{
+}
+
+<h2>Editar Propietario</h2>
+<form method="post">
+    <div class="form-group">
+        <input type="hidden" asp-for="Propietario.Id"/>
+    
+        <label asp-for="Propietario.Id"></label>
+        <input asp-for="Propietario.Id" class="form-control">
+        <label asp-for="Propietario.Nombre"></label>
+        <input asp-for="Propietario.Nombre" class ="form-control">
+        <label asp-for="Propietario.Apellidos"></label>
+        <input asp-for="Propietario.Apellidos" class ="form-control">
+        <label asp-for="Propietario.NumeroTelefono"></label>
+        <input asp-for="Propietario.NumeroTelefono" class ="form-control">
+
+    </div>
+    <div class="footer">
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+</form>
+
+<a asp-page="./ListPropietario" class="btn-default">Volver a la lista de Propietarios</a> 

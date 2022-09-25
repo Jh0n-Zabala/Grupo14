@@ -18,7 +18,7 @@ namespace HomePetCare.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-               .UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=HomePetCareData");
+               .UseSqlServer("Data Source = QA-YINETHT1\\SQLSERVER2019;User ID=sa;Password=Sql2022*;Initial Catalog =HomePetCareData1");
                //.UseSqlServer("Server=tcp:misiontic2022.database.windows.net,1433;Initial Catalog=HomePetCare;Persist Security Info=False;User ID=admin_01;Password=09122006_Hf;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             
             }
