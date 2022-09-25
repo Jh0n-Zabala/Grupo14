@@ -11,10 +11,8 @@
                 <th>Apellidos</th>
                 <th>Num Telefono</th>
                 <th>Codigo</th>
-                <th>Genero</th>
                 <th>Registro</th>
                 <th>Editar</th>
-                <th>Eliminar</th>
                 
             </tr>
     </thead>
@@ -28,20 +26,19 @@
                 <td>@veterinario.Apellidos</td>
                 <td>@veterinario.NumeroTelefono</td>
                 <td>@veterinario.Codigo</td>
-                <td>@veterinario.Genero</td>
                 <td>@veterinario.RegistroRethus</td>
 
                 <td>
-                    <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-mascotaId="@veterinario.Id">
+                    <a class="btn btn-primary table-btn" asp-page="./EditVet" asp-route-mascotaId="@veterinario.Id">
                     <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
                 </a>
                 </td>
-                <td>
+               @* <td>
                     <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-mascotaId="@veterinario.Id">
                     <i class="fas fa-trash" aria-hidden="true"></i>
 
                 </a>
-                </td>
+                </td>*@
             </tr>
         </tbody>    
     }
