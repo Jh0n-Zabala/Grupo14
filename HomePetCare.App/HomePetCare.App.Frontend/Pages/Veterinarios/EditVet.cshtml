@@ -1,0 +1,30 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.EditVetModel
+@{
+}
+
+<h2>Editar Veterinario</h2>
+<form method="post">
+    
+    <div class="form-group">
+        <input type="hidden" asp-for="Veterinario.Id"/>
+
+        <label asp-for="Veterinario.Id"></label>
+        <input asp-for="Veterinario.Id" class="form-control">
+        <label asp-for="Veterinario.Nombre"></label>
+        <input asp-for="Veterinario.Nombre" class ="form-control">
+        <label asp-for="Veterinario.Apellidos"></label>
+        <input asp-for="Veterinario.Apellidos" class ="form-control">
+        <label asp-for="Veterinario.NumeroTelefono"></label>
+        <input asp-for="Veterinario.NumeroTelefono" class ="form-control">
+        <label asp-for="Veterinario.Codigo"></label>
+        <input asp-for="Veterinario.Codigo" class ="form-control">
+        <label asp-for="Veterinario.RegistroRethus"></label>
+        <input asp-for="Veterinario.RegistroRethus" class ="form-control">
+    </div>
+    <div class="footer">
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+</form>
+
+<a asp-page="./ListVet" class="btn-default">Volver a la lista de Veterinarios</a> 

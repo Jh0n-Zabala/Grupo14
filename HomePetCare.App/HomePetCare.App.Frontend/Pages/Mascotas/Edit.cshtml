@@ -1,0 +1,53 @@
+﻿@page
+
+@model HomePetCare.App.Frontend.Pages.EditModel
+@{
+    @*int mascotaId=Model.Mascota.Id;*@
+}
+
+
+<link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
+<h2>Editar datos de Mascota @*Model.Mascota.Nombre*@</h2>
+
+
+<form method="post">
+
+    @* //Que haga enlace pero no quiero que aparezca en la iterfas  *@
+    <input type="hidden" asp-for="Mascota.Id" />
+    <div class="formulario">
+        <label asp-for="Mascota.Id"></label>
+        <input asp-for="Mascota.Id" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Id"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Mascota.Nombre"></label>
+        <input asp-for="Mascota.Nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Nombre"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Mascota.Apellidos"></label>
+        <input asp-for="Mascota.Apellidos" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Apellidos"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Mascota.NumeroTelefono"></label>
+        <input asp-for="Mascota.NumeroTelefono" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.NumeroTelefono"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Mascota.Raza"></label>
+        <input asp-for="Mascota.Raza" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Raza"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Mascota.Edad"></label>
+        <input asp-for="Mascota.Edad" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Edad"></span>
+    </div>
+    <div class="footer">
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+
+</form>
+<a asp-page="./List" class="btn-default">Volver a la lista de Mascotas</a>
+

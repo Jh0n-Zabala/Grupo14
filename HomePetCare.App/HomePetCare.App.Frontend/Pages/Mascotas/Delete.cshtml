@@ -1,0 +1,24 @@
+﻿@page
+@model HomePetCare.App.Frontend.Pages.DeleteModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
+<h2>Borrado de Mascotas</h2>
+<form method="post">
+    <input type="hidden" asp-for="Mascota.Id"/>
+    <div class="formulario">
+        <label asp-for="Mascota.Id"></label>
+        <input asp-for="Mascota.Id" class="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Id"></span>
+    </div>
+    <div class="formulario">
+        <label asp-for="Mascota.Nombre"></label>
+        <input asp-for="Mascota.Nombre" class ="form-control">
+        <span class="text-danger" asp-validation-for="Mascota.Nombre"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Borrar</button>
+    
+
+</form>
+<a asp-page="./List" class="btn-default">Volver a la lista de Mascotas</a>

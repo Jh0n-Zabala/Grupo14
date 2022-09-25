@@ -3,9 +3,11 @@ C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCa
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\HomePetCare.App.Consola.runtimeconfig.json
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\HomePetCare.App.Consola.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\HomePetCare.App.Consola.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Humanizer.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\HomePetCare\HomePetCare.App\HomePetCare.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll

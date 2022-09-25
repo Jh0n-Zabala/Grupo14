@@ -12,8 +12,8 @@ namespace HomePetCare.App.Dominio
         /// Fecha y hora en que se realizó la toma del signo vital 
         public DateTime FechaHora  { get; set; }
          /// Valor numérico del sifno vital  
-        public float Valor {get;set;}
+        public float? Valor {get;set;}
         /// Tipo de Signo vital medido
-        public TipoSigno Signo { get; set; }
+        public TipoSigno? Signo { get; set; }
     }
 }
